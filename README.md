@@ -1,6 +1,6 @@
 # PlantUML for Force.com  #
 
-<a href="https://githubsfdeploy.herokuapp.com?owner=rsoesemann&repo=plantuml4force">
+<a href="https://githubsfdeploy.herokuapp.com?owner=wfawcett&repo=plantuml4force">
   <img alt="Deploy to Salesforce"
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
